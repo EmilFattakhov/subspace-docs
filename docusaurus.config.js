@@ -79,7 +79,13 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Docs',
+            label: 'Node Docs',
+          },
+          {
+            type: 'doc',
+            docId: 'developers/intro',
+            position: 'left',
+            label:  "Developers' Docs",
           },
           {
             type: 'dropdown',
