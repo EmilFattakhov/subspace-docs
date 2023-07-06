@@ -12,13 +12,13 @@ keywords:
 Developing smart contracts involves a suite of tools that aid in writing, testing, and deploying code on the blockchain. **Since Subspace utilizes an instance of Ethereum Virtual Machine, it means that every tool available to build, test and deploy smart contracts on Ethereum is available for Subspace as well!**
 
 
-Firstly, Solidity is the primary programming language for writing smart contracts. It is statically typed, supports inheritance, libraries, and complex user-defined types, making it familiar for developers with a background in other statically typed languages like C++, Java, or JavaScript.
+First, Solidity is the primary programming language for writing smart contracts. It is statically typed, supports inheritance, libraries, and complex user-defined types, making it familiar for developers with a background in other statically typed languages like C++, Java, or JavaScript.
 
 
-To help write smart contracts, integrated development environments (IDEs) such as Remix IDE are often used. Remix IDE is a browser-based IDE that allows you to write Solidity contracts, deploy them, and interact with them. It has a built-in static analysis tool that checks your code for common errors.
+Integrated Development Environments (IDEs) such as the Remix IDE are often used to aid in writing smart contracts. Remix IDE is a browser-based IDE that enables you to write Solidity contracts, deploy them, and interact with them. It features a built-in static analysis tool that checks your code for common errors.
 
 
-For local development and testing, you can spin up your own version of Subspace Developer Node and farmer, making it possible to deploy contracts, develop applications, and run tests.
+For local development and testing, you can spin up your own version of a Subspace Developer Node and farmer, making it possible to deploy contracts, develop applications, and run tests.
 
 
 For deployment, the JavaScript Provider injected into the browser by MetaMask (a browser extension that allows interactions with the EVMs blockchains through a user-friendly interface) is widely used.
@@ -46,7 +46,7 @@ One of the key features of Solidity is its first-class support for "contracts." 
 Moreover, Solidity comes with safety features, such as a strong type system and control structures, which help prevent bugs. It also provides a variety of built-in functions for performing operations like cryptographic hashing, signature verification, and address checking, making it easier to write secure code.
 
 
-The popularity of Solidity is primarily due to its design for Ethereum, the leading smart contract platform. As Ethereum gained traction for decentralized applications (dApps) and Initial Coin Offerings (ICOs), Solidity became the go-to language for writing smart contracts for these applications. Furthermore, its resemblance to widely-used languages like JavaScript and C++ helped its adoption amongst developers.
+The popularity of Solidity is primarily due to its design for Ethereum, the leading smart contract platform. As Ethereum gained traction for decentralized applications (dApps), Solidity became the go-to language for writing smart contracts for these applications. Furthermore, its resemblance to widely-used languages like JavaScript and C++ helped its adoption amongst developers.
 
 
 Lastly, Solidity is continually evolving with frequent updates, new features, and improvements that address the unique needs of blockchain development. This responsive development and the thriving community around it further solidifies its position as the leading language for smart contract development.

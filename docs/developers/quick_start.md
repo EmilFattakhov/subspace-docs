@@ -23,6 +23,8 @@ Currency Symbol: TSSC
 
 ### Get dev tokens to your wallet using our faucet
 
+**Automated Faucet** is coming soon, for now you can enter your wallet address into a **[Google Form](https://forms.gle/qK7VMEFXDYzQ1u9N9)** and we will send test tokens your way ASAP!
+
 ### Test and deploy your smart contract
 
 You can use **[Remix](https://remix.ethereum.org/)**, **[Foundry](https://book.getfoundry.sh/)** or any other tool familiar to you for testing and deploying your smart contracts. Just make sure to use our custom EVM domain and you're all set. 
