@@ -1,7 +1,7 @@
 ---
-title: Developers' documentation
+title: Introduction
 sidebar_position: 1
-description: A Developers guide for the Subspace Network
+description: A developers guide for the Subspace Network
 keywords:
   - Getting Started
   - Learn
